@@ -1,0 +1,8 @@
+# These messages will only be sent to the console.
+# These messages do not support color codes, custom placeholders, or other formatting.
+# Messages can be disabled by setting the value to an empty string.
+console:
+  on-enable: "Successfully enabled version {version}."
+  on-disable: "Successfully disabled the plugin."
+  load-module: "Loading {module} module..."
+  unload-module: "Unloading {module} module..."

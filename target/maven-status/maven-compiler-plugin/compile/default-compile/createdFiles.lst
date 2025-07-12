@@ -1,0 +1,6 @@
+me\irobsch\veluxcore\module\impl\ScoreboardModule.class
+me\irobsch\veluxcore\module\CoreModule.class
+me\irobsch\veluxcore\module\ModuleManager.class
+me\irobsch\veluxcore\VeluxCore.class
+me\irobsch\veluxcore\util\FileManager.class
+me\irobsch\veluxcore\util\MessageHelper.class

@@ -1,0 +1,11 @@
+name: VeluxCore
+version: '1.0-SNAPSHOT'
+main: me.irobsch.veluxcore.VeluxCore
+api-version: '1.21'
+
+commands:
+  veluxcore:
+    description: "VeluxCore plugin command."
+    usage: "/veluxcore [subcommand]"
+    aliases: [ velux ]
+    permission-message: "You do not have permission to use this command."
